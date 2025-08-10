@@ -58,3 +58,11 @@ Thumbs.db
 .secrets/
 libraries/plugins/src/plugins.ts
 i18n.cache
+
+.bmad-core/
+.bmad-infrastructure-devops/
+.claude/
+.cursor/
+docs/
+web-bundles/
+CLAUDE.md
